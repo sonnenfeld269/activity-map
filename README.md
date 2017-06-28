@@ -32,3 +32,5 @@
 * supports vector tiles
 * can use simple style url for integrating styles
 works great with openmaptiles (another free open source vector tiles provider)
+
+tbc.
