@@ -1,0 +1,22 @@
+{
+  "name": "map",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.2",
+    "leaflet": "^1.0.3",
+    "leaflet.vectorgrid": "^1.2.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-leaflet": "^1.2.2"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

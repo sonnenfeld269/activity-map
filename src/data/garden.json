@@ -1,0 +1,1241 @@
+  [
+    {
+      "location_lat": 48.2514,
+      "location_lng": 16.4189,
+      "name": "Das Feld",
+      "url": "/gardens/das-feld",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.6071,
+      "location_lng": 14.3568,
+      "name": "Interkultureller Frauen- und Gemeinschaftsgarten in Ebenthal ",
+      "url": "/gardens/interkultureller-frauen-und-gemeinschaftsgarten-in-ebenthal",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2001,
+      "location_lng": 15.9416,
+      "name": "Gemeinschaftsgärten Maria Anzbach",
+      "url": "/gardens/gemeinschaftsgarten-maria-anzbach",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1663,
+      "location_lng": 16.4734,
+      "name": "Nachbarschaftsgarten Macondo",
+      "url": "/gardens/nachbarschaftsgarten-macondo",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2228,
+      "location_lng": 16.4986,
+      "name": "Seestadtgarten",
+      "url": "/gardens/seestadtgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2972,
+      "location_lng": 16.6644,
+      "name": "Ochsenherz Gärtnerhof",
+      "url": "/gardens/ochsenherz-gartnerhof",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.1978,
+      "location_lng": 16.27,
+      "name": "Gemeinschaftsgarten Hütteldorf",
+      "url": "/gardens/gemeinschaftsgarten-hutteldorf",
+      "kind": "planned_garden"
+    },
+    {
+      "location_lat": 48.1817,
+      "location_lng": 16.4186,
+      "name": "11er Garten",
+      "url": "/gardens/11er-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.254,
+      "location_lng": 11.3959,
+      "name": "Interkultureller Gemeinschaftsgarten Wilten-Innsbruck",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten-wilten-innsbruck",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2003,
+      "location_lng": 16.3682,
+      "name": "Karls Garten",
+      "url": "/gardens/karls-garten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 46.6136,
+      "location_lng": 13.8455,
+      "name": "Garten der Verbundenheit",
+      "url": "/gardens/garten-der-verbundenheit",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1932,
+      "location_lng": 16.3617,
+      "name": "KRONGARTEN",
+      "url": "/gardens/krongarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.9432,
+      "location_lng": 13.2221,
+      "name": "Interkultureller Gemeinschaftsgarten",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2124,
+      "location_lng": 16.3315,
+      "name": "Grünstück PEPH",
+      "url": "/gardens/grunstuck-peph",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.5631,
+      "location_lng": 15.3998,
+      "name": "Das kleine Paradieschen",
+      "url": "/gardens/das-kleine-paradieschen",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.3057,
+      "location_lng": 14.3238,
+      "name": "Hafengarten",
+      "url": "/gardens/hafengarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2791,
+      "location_lng": 16.394,
+      "name": "Gemeinschaftsgarten Haus Winkeläckerweg",
+      "url": "/gardens/gemeinschaftsgarten-haus-winkelackerweg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1942,
+      "location_lng": 13.5263,
+      "name": "Ganivace",
+      "url": "/gardens/ganivace",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.226,
+      "location_lng": 15.2345,
+      "name": "\"1.Essbare Gemeinde Österreichs/Übelbach\"",
+      "url": "/gardens/1-essbare-gemeinde-osterreichs-ubelbach",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.3114,
+      "location_lng": 14.2989,
+      "name": "wachstumsphase",
+      "url": "/gardens/wachstumsphase",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3092,
+      "location_lng": 14.309,
+      "name": "filino-betriebsgarten",
+      "url": "/gardens/filino-betriebsgarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2891,
+      "location_lng": 14.3074,
+      "name": "teamwork-betriebsgarten",
+      "url": "/gardens/teamwork-betriebsgarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 46.6128,
+      "location_lng": 13.844,
+      "name": "Alpenvereinsgarten",
+      "url": "/gardens/alpenvereinsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1767,
+      "location_lng": 16.3023,
+      "name": "City Farm Schönbrunn",
+      "url": "/gardens/city-farm-schonbrunn",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.1888,
+      "location_lng": 16.3938,
+      "name": "Zwischen(t)raum",
+      "url": "/gardens/nachbarschaftsgarten-auf-zeit-eurogate",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.04,
+      "location_lng": 15.3866,
+      "name": "Interkultureller Landschaftsgarten Graz-West",
+      "url": "/gardens/palaver-unterm-apfelbaum",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0905,
+      "location_lng": 15.5061,
+      "name": "Riessparadies",
+      "url": "/gardens/riessparadies",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0661,
+      "location_lng": 14.0563,
+      "name": "gemüsefreude",
+      "url": "/gardens/gemusefreude",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.1666,
+      "location_lng": 16.311,
+      "name": "NaHe – Nachbarschaftsgarten Hetzendorf",
+      "url": "/gardens/nahe-nachbarschaftsgarten-hetzendorf",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1579,
+      "location_lng": 14.0184,
+      "name": "Kultur-Garten-Gemeinschaft",
+      "url": "/gardens/kultur-garten-gemeinschaft",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.2066,
+      "location_lng": 16.1685,
+      "name": "SoLawi Sepplashof",
+      "url": "/gardens/solawi-sepplashof",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 47.0327,
+      "location_lng": 15.3982,
+      "name": "Muttererde",
+      "url": "/gardens/muttererde",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0705,
+      "location_lng": 15.4261,
+      "name": "Der Niesenberger-Garten",
+      "url": "/gardens/der-niesenberger-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0754,
+      "location_lng": 15.4469,
+      "name": "Allmende Leech",
+      "url": "/gardens/allmende-leech",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0696,
+      "location_lng": 15.4294,
+      "name": "Gottesacker - Gemeinschaftsgarten am Andrä-Platz",
+      "url": "/gardens/gottesacker-gemeinschaftsgarten-am-andra-platz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2712,
+      "location_lng": 14.2593,
+      "name": "GARTEN LABOR Leonding",
+      "url": "/gardens/garten-labor-leonding",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3193,
+      "location_lng": 14.2737,
+      "name": "LEISENHOF",
+      "url": "/gardens/leisenhof",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.3531,
+      "location_lng": 14.4106,
+      "name": "Der \"Gute Garten\"",
+      "url": "/gardens/der-gute-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2502,
+      "location_lng": 14.2954,
+      "name": "Schulgartenprojekt \"Garten für dich und mich\"",
+      "url": "/gardens/schulgartenprojekt-garten-fur-dich-und-mich",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.226,
+      "location_lng": 16.3955,
+      "name": "Mintzgarten",
+      "url": "/gardens/mintzgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2205,
+      "location_lng": 16.4002,
+      "name": "Nachbarschaftsgärtchen Max-Winter-Platz",
+      "url": "/gardens/nachbarschaftsgartchen-max-winter-platz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2257,
+      "location_lng": 16.386,
+      "name": "Garten SAMBA",
+      "url": "/gardens/garten-samba",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1782,
+      "location_lng": 16.359,
+      "name": "Garten Matzleinsdorf",
+      "url": "/gardens/garten-matzleinsdorfb1243daa-f060-4b5d-9d32-f6e5f4009f89",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1854,
+      "location_lng": 16.3401,
+      "name": "Gärtnern und \"büffeln\"",
+      "url": "/gardens/gartnern-und-buffeln",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3282,
+      "location_lng": 14.3366,
+      "name": "Garten der Vielfalt",
+      "url": "/gardens/garten-der-vielfalt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3085,
+      "location_lng": 14.2814,
+      "name": "GARTEN FÜR ALLE",
+      "url": "/gardens/garten-fur-alle",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1583,
+      "location_lng": 13.9903,
+      "name": "Nachbarschaftsgarten OTTO-LOEWI-Siedlung",
+      "url": "/gardens/nachbarschaftsgarten-otto-loewi-siedlung",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.9176,
+      "location_lng": 13.799,
+      "name": "HochSeeBeete Gmunden",
+      "url": "/gardens/hochseebeete-gmunden",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0284,
+      "location_lng": 14.198,
+      "name": "6 Beete als Gemeinschaftsgarten",
+      "url": "/gardens/6-beete-als-gemeinschaftsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.1008,
+      "location_lng": 15.4521,
+      "name": "Ökohof Graz - Gartenparadies in Mariagrün",
+      "url": "/gardens/okohof-graz-gartenparadies-in-mariagrun",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0681,
+      "location_lng": 15.4305,
+      "name": "Garden Lab Graz - Grenadiergasse",
+      "url": "/gardens/garden-lab-graz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3512,
+      "location_lng": 16.2598,
+      "name": "Interkultureller Naturgarten Greifenstein",
+      "url": "/gardens/interkultureller-naturgarten-greifenstein",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2188,
+      "location_lng": 16.312,
+      "name": "Nachbarschaftsgarten Heigerlein",
+      "url": "/gardens/nachbarschaftsgarten-heigerlein",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2217,
+      "location_lng": 16.378,
+      "name": "'gärtnernwienochnie' ",
+      "url": "/gardens/gartnernwienochnie",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2189,
+      "location_lng": 16.3855,
+      "name": "NOVAgarten",
+      "url": "/gardens/novagarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2249,
+      "location_lng": 16.386,
+      "name": "\"Blumenspitz Am Tabor\"",
+      "url": "/gardens/blumenspitz-am-tabor",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2178,
+      "location_lng": 16.373,
+      "name": "Gemeinschaftsgarten Donaukanal",
+      "url": "/gardens/gemeinschaftsgarten-donaukanal",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.198,
+      "location_lng": 16.3908,
+      "name": "Nachbarschaftsgarten Arenbergpark",
+      "url": "/gardens/gemeinschaftsgarten-arenbergpark",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.8107,
+      "location_lng": 13.0511,
+      "name": "Gemeinsam gärtnern in der Pflanzerei Schallmoos",
+      "url": "/gardens/gemeinsam-gartnern-in-der-pflanzerei-schallmoos",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1826,
+      "location_lng": 16.3888,
+      "name": "Hängender Kräutergarten ",
+      "url": "/gardens/hangender-krautergarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2047,
+      "location_lng": 16.3517,
+      "name": "Gemeinschaftsgarten Kirchengasse ",
+      "url": "/gardens/gemeinschaftsgarten-kirchengasse",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2201,
+      "location_lng": 16.3536,
+      "name": "Sensengarten",
+      "url": "/gardens/sensengarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2192,
+      "location_lng": 16.3532,
+      "name": "Grätzlgarten9 ",
+      "url": "/gardens/gratzlgarten9",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1673,
+      "location_lng": 16.3896,
+      "name": "Gemeinschaftsgarten Monte Laa",
+      "url": "/gardens/gemeinschaftsgarten-monte-laa",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1324,
+      "location_lng": 16.2561,
+      "name": "Zaubergarten",
+      "url": "/gardens/zaubergarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.2716,
+      "location_lng": 11.4253,
+      "name": "innsGartl",
+      "url": "/gardens/innsgartl",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.8243,
+      "location_lng": 13.0489,
+      "name": "Initiative \"Stadtteilgarten Itzling\"",
+      "url": "/gardens/initiative-stadtteilgarten-itzling",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.2629,
+      "location_lng": 11.3828,
+      "name": "Servicestelle Gemeinschaftsgärten",
+      "url": "/gardens/netzwerkstelle-gemeinschaftsgarten-tirol",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.176,
+      "location_lng": 16.4076,
+      "name": "mädchengarten",
+      "url": "/gardens/madchengarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2061,
+      "location_lng": 16.4581,
+      "name": "Die LoBauerInnen",
+      "url": "/gardens/die-lobauerinnen",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.2541,
+      "location_lng": 16.4128,
+      "name": "Interkulturelles Gartenprojekt im  Bruno-Kreisky-Haus der Volkshilfe Wien",
+      "url": "/gardens/interkulturelles-gartenprojekt-im-bruno-kreisky-haus-der-volkshilfe-wien",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 46.8343,
+      "location_lng": 15.4756,
+      "name": "KLEINeFARM GeLawi",
+      "url": "/gardens/kleinefarm-gelawi",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.5581,
+      "location_lng": 15.6863,
+      "name": "CSA Kamptal",
+      "url": "/gardens/csa-kamptal",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.1968,
+      "location_lng": 16.3265,
+      "name": "Garten der Vielfalt",
+      "url": "/gardens/garten-der-vielfaltb679741b-36e7-4195-891e-f7a35c8a73a5",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1866,
+      "location_lng": 16.3369,
+      "name": " Längenfeld-Garten ",
+      "url": "/gardens/langenfeld-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1831,
+      "location_lng": 16.3422,
+      "name": " Garten Wolfganggasse ",
+      "url": "/gardens/garten-wolfganggasse",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.82,
+      "location_lng": 16.2438,
+      "name": "Gemeinschaftsgarten Wiener Neustadt",
+      "url": "/gardens/gemeinschaftsgarten-wiener-neustadt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1965,
+      "location_lng": 16.3271,
+      "name": "Garteln ums Eck ",
+      "url": "/gardens/garteln-ums-eck",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2076,
+      "location_lng": 16.3293,
+      "name": "Garteln ums Eck",
+      "url": "/gardens/garteln-ums-eckee1eb76e-75e0-4f95-ae93-d573bdcf8c4c",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2294,
+      "location_lng": 16.3019,
+      "name": "Gemeinschaftsgarten Rosenberg",
+      "url": "/gardens/gemeinschaftsgarten-rosenberg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2895,
+      "location_lng": 16.382,
+      "name": "Nachbarschaftsgarten Roda-Roda-Gasse",
+      "url": "/gardens/nachbarschaftsgarten-roda-roda-gasse",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2521,
+      "location_lng": 16.3985,
+      "name": "Nachbarschaftsgarten am Broßmannplatz",
+      "url": "/gardens/nachbarschaftsgarten-am-brossmannplatz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2127,
+      "location_lng": 16.4791,
+      "name": "Gemeinschaftsgarten Norwegerviertel",
+      "url": "/gardens/gemeinschaftsgarten-norwegerviertel",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2047,
+      "location_lng": 16.4564,
+      "name": "PermaBluehGemueseGarten",
+      "url": "/gardens/permabluehgemuesegarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2047,
+      "location_lng": 16.4566,
+      "name": "SoliLa!",
+      "url": "/gardens/solila",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.2072,
+      "location_lng": 16.4591,
+      "name": "Paradiesgarten \"grüner Daumen\"",
+      "url": "/gardens/paradiesgarten-gruner-daumen",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.1874,
+      "location_lng": 16.328,
+      "name": "Grimmgarten",
+      "url": "/gardens/grimmgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2876,
+      "location_lng": 16.4313,
+      "name": " BOKU-Gemeinschaftsgarten ",
+      "url": "/gardens/boku-gemeinschaftsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2767,
+      "location_lng": 16.4541,
+      "name": " Nachbarschaftsgarten Adolf-Loos-Gasse -  Ein mobiler Garten für die BewohnerInnen der Wohnhausanlage Adolf-Loos-Gasse in der Großfeldsiedlung",
+      "url": "/gardens/nachbarschaftsgarten-adolf-loos-gasse-ein-mobiler-garten-fur-die-bewohnerinnen-der-wohnhausanlage-adolf-loos-gasse-in-der-grossfeldsiedlung",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2392,
+      "location_lng": 16.3826,
+      "name": "Gemeinschaftsgarten Löwenzahn",
+      "url": "/gardens/gemeinschaftsgarten-lowenzahn",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3532,
+      "location_lng": 14.6663,
+      "name": "Gemeinschafts- und Nachbarschaftsgarten Bad Zell",
+      "url": "/gardens/gemeinschafts-und-nachbarschaftsgarten-bad-zell",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0233,
+      "location_lng": 14.0485,
+      "name": "Garten EDEN",
+      "url": "/gardens/garten-eden",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2232,
+      "location_lng": 14.248,
+      "name": "Bunter Garten Traun",
+      "url": "/gardens/bunter-garten-traun296ebbd0-4580-49d3-ad05-cb06959e79f0",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.1141,
+      "location_lng": 15.337,
+      "name": "GemeinschaftsGarten Straßengler Sonnenfleck",
+      "url": "/gardens/gemeinschaftsgarten-strassengler-sonnenfleck",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.276,
+      "location_lng": 14.3048,
+      "name": "Interkulturgarten",
+      "url": "/gardens/interkulturgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.481,
+      "location_lng": 14.7648,
+      "name": "Biohof Thauerböck Gemeinschaftsgarten",
+      "url": "/gardens/biohof-thauerbock-gemeinschaftsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.6387,
+      "location_lng": 14.0054,
+      "name": "Biogartenhof Mühlland",
+      "url": "/gardens/biogartenhof-muhlland",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3419,
+      "location_lng": 14.2935,
+      "name": "Gemeinschaftsgarten Purbachmühle",
+      "url": "/gardens/gemeinschaftsgarten-purbachmuhle",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2549,
+      "location_lng": 14.3156,
+      "name": "Gemeinschaftsgarten Löwenfeldschule",
+      "url": "/gardens/gemeinschaftsgarten-lowenfeldschule",
+      "kind": "planned_garden"
+    },
+    {
+      "location_lat": 48.2944,
+      "location_lng": 14.2973,
+      "name": "Gemeinschaftsgarten Arcobaleno",
+      "url": "/gardens/gemeinschaftsgarten-arcobaleno",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.4711,
+      "location_lng": 14.5645,
+      "name": "Die Krautschädln",
+      "url": "/gardens/die-krautschadln",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.0624,
+      "location_lng": 13.6513,
+      "name": "SOLAWI Vöcklabruck",
+      "url": "/gardens/solawi-vocklabruck",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 47.2508,
+      "location_lng": 9.58068,
+      "name": "Gemeinschaftsgarten der waXunion",
+      "url": "/gardens/gemeinschaftsgarten-der-waxunion",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0375,
+      "location_lng": 14.7825,
+      "name": "Gemeinschaftsgarten Allhartsberg",
+      "url": "/gardens/gemeinschaftsgarten-allhartsberg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2565,
+      "location_lng": 13.0343,
+      "name": "Interkultureller Gemeinschaftsgarten Braunau am Inn",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten-braunau-am-inn",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2736,
+      "location_lng": 14.5744,
+      "name": "Interkultureller Nachbarschaftsgarten  Neu Schwertberg ",
+      "url": "/gardens/interkultureller-nachbarschaftsgarten-neu-schwertberg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0426,
+      "location_lng": 14.3086,
+      "name": "Interkultureller Gemeinschaftsgarten Sierning ",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten-sierning",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0989,
+      "location_lng": 16.0727,
+      "name": "KEIKI-FARM",
+      "url": "/gardens/keiki-farm",
+      "kind": "planned_garden"
+    },
+    {
+      "location_lat": 46.6299,
+      "location_lng": 13.8142,
+      "name": "Gartenfreunde Fellach",
+      "url": "/gardens/gartenfreunde-fellach",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2325,
+      "location_lng": 16.3497,
+      "name": "Zaunkönig Nachbarschaftsgarten",
+      "url": "/gardens/zaunkonig-nachbarschaftsgarten02cc6833-6cb0-46b6-81c0-e1d7f1d70520",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.2696,
+      "location_lng": 11.4526,
+      "name": "Tiroler Gemeinschaftsgarten",
+      "url": "/gardens/tiroler-gemeinschaftsgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1349,
+      "location_lng": 16.2874,
+      "name": "Gemeinschaftsgarten an der Liesing",
+      "url": "/gardens/gemeinschaftsgarten-an-der-liesing",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2663,
+      "location_lng": 14.0307,
+      "name": "BIGG",
+      "url": "/gardens/bigg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.0518,
+      "location_lng": 15.4398,
+      "name": "Gemeinschaftsgarten Schönau",
+      "url": "/gardens/gemeinschaftsgarten-schonau",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.3435,
+      "location_lng": 14.5067,
+      "name": "Gemeinschaftsgarten Schloss Haus",
+      "url": "/gardens/gemeinschaftsgarten-schloss-haus",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.7123,
+      "location_lng": 13.6234,
+      "name": "Interkultureller Gemeinschaftsgarten Bad Ischl ",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten-bad-ischl",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2316,
+      "location_lng": 16.3938,
+      "name": "Gemeinschaftsgarten Sonnenblume",
+      "url": "/gardens/gemeinschaftsgarten-sonnenblume",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0508,
+      "location_lng": 13.7769,
+      "name": "Gemeinschaftsgarten Schwanenstadt",
+      "url": "/gardens/gemeinschaftsgarten-schwanenstadt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1852,
+      "location_lng": 15.626,
+      "name": "Sonnenpark St. Pölten",
+      "url": "/gardens/sonnenpark-st-polten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.8583,
+      "location_lng": 13.734,
+      "name": "Bauerngarten",
+      "url": "/gardens/bauerngarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.3349,
+      "location_lng": 15.0239,
+      "name": "KinderGärtnerei - Gärtnern für das Leben",
+      "url": "/gardens/kindergartnerei-gartnern-fur-das-leben",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.6473,
+      "location_lng": 13.8687,
+      "name": "Das Regenbogenland",
+      "url": "/gardens/das-regenbogenland",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.9825,
+      "location_lng": 16.1471,
+      "name": "WildnisKulturHof",
+      "url": "/gardens/wildniskulturhof",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 46.6057,
+      "location_lng": 14.3104,
+      "name": "Franz von Sales Garten",
+      "url": "/gardens/franz-von-sales-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1966,
+      "location_lng": 16.3947,
+      "name": "Fliedergarten",
+      "url": "/gardens/juchgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1881,
+      "location_lng": 16.4063,
+      "name": "Neu Marx Garten",
+      "url": "/gardens/neu-marx-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0134,
+      "location_lng": 16.2922,
+      "name": "Garten der Begegnung in Traiskirchen",
+      "url": "/gardens/garten-der-begegnung-in-traiskirchen",
+      "kind": "planned_garden"
+    },
+    {
+      "location_lat": 48.2542,
+      "location_lng": 16.4248,
+      "name": "Paradeisgartl Donaufeld",
+      "url": "/gardens/paradeisgartl-donaufeld",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.6828,
+      "location_lng": 13.9737,
+      "name": "Dorfgarten",
+      "url": "/gardens/dorfgarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.094,
+      "location_lng": 15.4395,
+      "name": "Hochsteingarten",
+      "url": "/gardens/hochsteingarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.2476,
+      "location_lng": 11.3625,
+      "name": "Gemeinschaftsgarten Waldhüttl Mentlberg",
+      "url": "/gardens/gemeinschaftsgarten-waldhuttl-mentlberg",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.8512,
+      "location_lng": 13.5168,
+      "name": "BIO-TREFFling",
+      "url": "/gardens/bio-treffling",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.214,
+      "location_lng": 16.3437,
+      "name": "Gemeinschaftsgarten am Albertplatz",
+      "url": "/gardens/gemeinschaftsgarten-am-albertplatz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1475,
+      "location_lng": 16.2941,
+      "name": "Panama - Partizipativ Nachbarschaft machen",
+      "url": "/gardens/panama-partizipativ-nachbarschaft-machen",
+      "kind": "planned_garden"
+    },
+    {
+      "location_lat": 48.191,
+      "location_lng": 16.3264,
+      "name": "Schwendermarkt",
+      "url": "/gardens/schwendermarkt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.5223,
+      "location_lng": 14.1393,
+      "name": "Erdäpfelanbaugemeinschaft Enns-Grimming-Region",
+      "url": "/gardens/erdapfelanbaugemeinschaft-enns-grimming-region",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 47.3463,
+      "location_lng": 9.62481,
+      "name": "ALLMENDA Garten Götzis Kommingen",
+      "url": "/gardens/allmenda-garten-gotzis-kommingen",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.4802,
+      "location_lng": 9.82585,
+      "name": "Solawi am Biohof Kohler",
+      "url": "/gardens/solawi-am-biohof-kohler",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.2079,
+      "location_lng": 16.3478,
+      "name": "Pfeilgarten",
+      "url": "/gardens/pfeilgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2086,
+      "location_lng": 16.3452,
+      "name": "Tigergarten",
+      "url": "/gardens/tigergartenf5392067-51cf-4e1e-af0e-54fb8aab9978",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.9921,
+      "location_lng": 16.016,
+      "name": "Paradieschen",
+      "url": "/gardens/paradieschen",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.2288,
+      "location_lng": 16.5019,
+      "name": "vienna.transitionBASE",
+      "url": "/gardens/vienna-transitionbase",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.7892,
+      "location_lng": 15.1805,
+      "name": "Wieserhoisl Hofkollektiv SOLAWI",
+      "url": "/gardens/wieserhoisl-hofkollektiv-solawi",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 47.0783,
+      "location_lng": 15.4473,
+      "name": "Offener Lernraum Attemsgarten",
+      "url": "/gardens/offener-lernraum-attemsgarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2298,
+      "location_lng": 16.3613,
+      "name": "Gemeinschaftsgarten Nordbergstraße",
+      "url": "/gardens/gemeinschaftsgarten-nordbergstrasse",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1992,
+      "location_lng": 16.3556,
+      "name": "GartenWerkStadt",
+      "url": "/gardens/gartenwerkstadt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1793,
+      "location_lng": 16.3838,
+      "name": "Gartenlabor Helmut-Zilk-Park",
+      "url": "/gardens/gartenlabor-helmut-zilk-park",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1899,
+      "location_lng": 16.3611,
+      "name": "Pädagogikgarten",
+      "url": "/gardens/padagogikgarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.1808,
+      "location_lng": 16.3344,
+      "name": "Mandlgarten",
+      "url": "/gardens/mandlgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1956,
+      "location_lng": 16.3024,
+      "name": "Matznergarten",
+      "url": "/gardens/matznergarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2071,
+      "location_lng": 16.3443,
+      "name": "Kistlgarten Badhausgasse",
+      "url": "/gardens/kistlgarten-badhausgasse",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2245,
+      "location_lng": 16.3965,
+      "name": "Gemeinschaftsgarten PAN",
+      "url": "/gardens/gemeinschaftsgarten-pan",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2252,
+      "location_lng": 16.3957,
+      "name": "Erna-Popper-Garten",
+      "url": "/gardens/erna-popper-garten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2268,
+      "location_lng": 16.3952,
+      "name": "Nachbarschaftsgarten Wohnprojekt",
+      "url": "/gardens/nachbarschaftsgarten-wohnprojekt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.222,
+      "location_lng": 16.377,
+      "name": "Urban Gardening beim Wiener Augarten",
+      "url": "/gardens/urban-gardening-beim-wiener-augarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2318,
+      "location_lng": 16.3743,
+      "name": "Hartlgarten",
+      "url": "/gardens/hartlgarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.5847,
+      "location_lng": 12.1568,
+      "name": "Bunte Daumen",
+      "url": "/gardens/bunte-daumen",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2164,
+      "location_lng": 16.4444,
+      "name": "Lebensraum Barbenhäufel",
+      "url": "/gardens/lebensraum-barbenhaufel",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.7946,
+      "location_lng": 13.088,
+      "name": "Erdling – Verein für kooperative Landwirtschaft",
+      "url": "/gardens/erdling-verein-fur-kooperative-landwirtschaft",
+      "kind": "community_supported_agriculture"
+    },
+    {
+      "location_lat": 48.4721,
+      "location_lng": 15.6858,
+      "name": "Urbanergarten ung'spritzt",
+      "url": "/gardens/urbanergarten-ung-spritzt",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.7833,
+      "location_lng": 15.5482,
+      "name": "Interkultureller Gemeinschaftsgarten Leibnitz",
+      "url": "/gardens/interkultureller-gemeinschaftsgarten-leibnitz",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2031,
+      "location_lng": 16.3118,
+      "name": "Gartln ums Eck",
+      "url": "/gardens/gartln-ums-eck",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2228,
+      "location_lng": 16.4986,
+      "name": "Gemeinschaftsgarten Madame D'ora",
+      "url": "/gardens/gemeinschaftsgarten-madame-d-ora",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.8068,
+      "location_lng": 13.0202,
+      "name": "Mühlbachgarten Maxglan - Burgfried",
+      "url": "/gardens/muhlbachgarten-maxglan-burgfried",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.8003,
+      "location_lng": 13.0437,
+      "name": "Verein Blattform Salzburg: eine Stadt, ein Garten",
+      "url": "/gardens/verein-blattform-salzburg-eine-stadt-ein-garten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.8544,
+      "location_lng": 13.3528,
+      "name": "Die Mondsäer",
+      "url": "/gardens/die-mondsaer",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.8104,
+      "location_lng": 13.0517,
+      "name": "Pflanzerei Schallmoos",
+      "url": "/gardens/pflanzerei-schallmoos",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.0861,
+      "location_lng": 16.2839,
+      "name": "Ökogarten Mödling",
+      "url": "/gardens/%C3%96kogarten",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 48.2203,
+      "location_lng": 16.364,
+      "name": "Wurzeln.Rossau",
+      "url": "/gardens/wurzeln-rossau",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2415,
+      "location_lng": 16.33,
+      "name": "Gemeinschaftsgarten Krottenbach",
+      "url": "/gardens/gemeinschaftsgarten-krottenbache1288ce3-a5ec-42ec-b85f-0adcb499b40c",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.1547,
+      "location_lng": 16.3832,
+      "name": "SOL Hochbeet zum Naschen",
+      "url": "/gardens/sol-hochbeet-zum-naschen",
+      "kind": "other_garden_initiative"
+    },
+    {
+      "location_lat": 47.2837,
+      "location_lng": 11.4405,
+      "name": "Feldfreu(n)de Arzl",
+      "url": "/gardens/feldfreu-n-de-arzlbec19c4e-ed88-42dc-8317-8c23f86db8bb",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2566,
+      "location_lng": 16.3562,
+      "name": "Garten Unser-Döbling",
+      "url": "/gardens/garten-unser-dobling17ceb4b2-38eb-4ed7-bb10-4af2be2ad00d",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2918,
+      "location_lng": 16.4091,
+      "name": "Gemeinsame Landwirtschaft Wilde Rauke",
+      "url": "/gardens/gemeinsame-landwirtschaft-wilde-rauke",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 47.5195,
+      "location_lng": 12.436,
+      "name": "INKUGA - Interkultureller Gemeinschaftsgarten St. Johann in Tirol",
+      "url": "/gardens/inkuga-interkultureller-gemeinschaftsgarten-st-johann-in-tirol58eb6ff7-3cd6-4666-88f0-506ecdd2b45f",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 46.6152,
+      "location_lng": 14.2654,
+      "name": "ÖH-Unigarten",
+      "url": "/gardens/oh-unigarten",
+      "kind": "community_garden"
+    },
+    {
+      "location_lat": 48.2049,
+      "location_lng": 16.3968,
+      "name": "Sophiengarten",
+      "url": "/gardens/sophiengarten",
+      "kind": "community_garden"
+    }
+  ]
