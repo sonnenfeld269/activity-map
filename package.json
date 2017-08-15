@@ -8,7 +8,8 @@
     "leaflet.vectorgrid": "^1.2.0",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
-    "react-leaflet": "^1.2.2"
+    "react-leaflet": "^1.2.2",
+    "react-map-gl": "^2.0.3"
   },
   "devDependencies": {
     "react-scripts": "1.0.7"
